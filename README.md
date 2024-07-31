@@ -21,10 +21,11 @@ the following image is an example of using the xrp tracker to trace the ripple h
 
 ![Ripple Hack Graph](images/ripple_hack_graph.png)
 
+
+(Ensure you have valid API keys for XRPSCAN and Etherscan. Replace API_KEY in the script with your Etherscan API key.)
 To install the dependencies, run:
 
 ```bash
 pip install requests networkx matplotlib numpy
 
-(Ensure you have valid API keys for XRPSCAN and Etherscan. Replace API_KEY in the script with your Etherscan API key.)
  
