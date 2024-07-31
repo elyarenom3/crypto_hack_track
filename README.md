@@ -17,7 +17,7 @@ Developed as a fun side project inspired by my internship at DeepBlue, the stabl
   - `matplotlib`
   - `numpy`
 
-the following image is an example of using the xrp tracker to trace the ripple hack.
+the following image is an example of using the xrp tracker to trace the ripple hack. The darker lines mean more money. Also, I shortened the addresses in the diagram for cleanliness of the tracking but the full addresses can be viewed on the diagram by removing the shortening function.
 
 ![Ripple Hack Graph](images/ripple_hack_graph.png)
 
